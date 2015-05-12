@@ -1,6 +1,237 @@
 
+
 #EXTM3U
-#EXTINF:0,A Pac
+#EXTINF:-1,[COLOR yellow]by tutorial-iptv-xbmc.blogspot.com[/COLOR]
+
+
+#EXTINF:0,BBC Sport < cc-list.ipx-Start >
+http://93.184.221.133/00573D/1104/1104-0.m3u8
+#EXTINF:0,Viasat Sport
+http://93.184.221.133/00573D/1341/1341-0.m3u8
+#EXTINF:0,3Sport 1
+http://93.184.221.133/00573D/236/236-0.m3u8
+#EXTINF:0,3Sport
+http://93.184.221.133/00573D/837/837-0.m3u8
+#EXTINF:0,British Eurosport
+http://93.184.221.133/00573D/1210/1210-0.m3u8
+#EXTINF:0,British Eurosport 2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+#EXTINF:0,Sky Sports News
+http://93.184.221.133/00573D/183/183-0.m3u8
+#EXTINF:0,Viasat Golf (1)
+http://93.184.221.133/00573D/204/204-0.m3u8
+#EXTINF:0,Viasat Golf (2)
+http://93.184.221.133/00573D/911/911-0.m3u8
+#EXTINF:0,Fox 11 USA
+http://93.184.221.133/00573D/1093/1093-0.m3u8
+#EXTINF:0,ABC7 USA
+http://93.184.221.133/00573D/1086/1086-0.m3u8
+#EXTINF:0,CNBC USA
+http://93.184.221.133/00573D/1085/1085-0.m3u8
+#EXTINF:0,CBS 2 USA
+http://93.184.221.133/00573D/1084/1084-0.m3u8
+#EXTINF:0,BOXNATION
+http://93.184.221.133/00573D/1222/1222-0.m3u8
+#EXTINF:0,EURONEWS
+http://93.184.221.133/00573D/346/346-0.m3u8
+#EXTINF:0,DRAMA CHANNEL
+http://93.184.221.133/00573D/1348/1348-0.m3u8
+#EXTINF:0,DISCOVERY EUROPE
+http://93.184.221.133/00573D/1347/1347-0.m3u8
+#EXTINF:0,DISCOVERY HISTORY
+http://93.184.221.133/00573D/1348/1348-0.m3u8
+#EXTINF:0,DAVE
+http://93.184.221.133/00573D/290/290-0.m3u8
+#EXTINF:0,SKY INFO
+http://93.184.221.133/00573D/1451/1451-0.m3u8
+#EXTINF:0,RTE 1
+http://93.184.221.133/00573D/345/345-0.m3u8
+#EXTINF:0,C-MORE
+http://93.184.221.133/00573D/1460/1460-0.m3u8
+#EXTINF:0,NAT GEO
+http://93.184.221.133/00573D/338/338-0.m3u8
+#EXTINF:0,MTV MUSIC TELEVISION
+http://93.184.221.133/00573D/1345/1345-0.m3u8
+#EXTINF:0,MOVIES 4
+http://93.184.221.133/00573D/311/311-0.m3u8
+#EXTINF:0,CHANNEL 6
+http://93.184.221.133/00573D/231/231-0.m3u8
+#EXTINF:0,CHANNEL 4
+http://93.184.221.133/00573D/292/292-0.m3u8
+#EXTINF:0,CBS REALITY
+http://93.184.221.133/00573D/713/713-0.m3u8
+#EXTINF:0,CBS DRAMA
+http://93.184.221.133/00573D/712/712-0.m3u8
+#EXTINF:0,CBS ACTION
+http://93.184.221.133/00573D/711/711-0.m3u8
+#EXTINF:0,PLUS 3
+http://93.184.221.133/00573D/232/232-0.m3u8
+#EXTINF:0,TG 4
+http://93.184.221.133/00573D/348/348-0.m3u8
+
+"UK and USA",C-MORE ACTION
+http://93.184.221.133/00573D/1460/1460-0.m3u8
+"UK and USA",NAT GEO
+http://93.184.221.133/00573D/338/338-0.m3u8
+"UK and USA",MOVIES 4
+http://93.184.221.133/00573D/311/311-0.m3u8
+"UK and USA",CHANNEL 6
+http://93.184.221.133/00573D/231/231-0.m3u8
+"UK and USA",CHANNEL 4
+http://93.184.221.133/00573D/292/292-0.m3u8
+"UK and USA",CBS REALITY
+http://93.184.221.133/00573D/713/713-0.m3u8
+"UK and USA",CBS DRAMA
+http://93.184.221.133/00573D/712/712-0.m3u8
+"UK and USA",CBS ACTION
+http://93.184.221.133/00573D/711/711-0.m3u8
+"UK and USA",PLUS 3
+http://93.184.221.133/00573D/232/232-0.m3u8
+"UK and USA",TG 4
+http://93.184.221.133/00573D/348/348-0.m3u8
+"UK and USA",DRAMA CHANNEL
+http://93.184.221.133/00573D/1348/1348-0.m3u8
+"UK and USA",DISCOVERY EUROPE
+http://93.184.221.133/00573D/1347/1347-0.m3u8
+"UK and USA",DISCOVERY HISTORY
+http://93.184.221.133/00573D/1348/1348-0.m3u8
+"UK and USA",DAVE
+http://93.184.221.133/00573D/290/290-0.m3u8
+"UK and USA",BBC
+http://93.184.221.133/00573D/1104/1104-0.m3u8
+"UK and USA",FOX 11 USA
+http://93.184.221.133/00573D/1093/1093-0.m3u8
+"UK and USA",ABC 7 USA
+http://93.184.221.133/00573D/1086/1086-0.m3u8
+"UK and USA",CNBC USA
+http://93.184.221.133/00573D/1085/1085-0.m3u8
+"UK and USA",CBS 2 USA
+http://93.184.221.133/00573D/1084/1084-0.m3u8
+"UK and USA",RTE ONE
+http://212.250.46.35:4252/bysid/9601
+"UK and USA",RTE 2
+http://212.250.46.35:4252/bysid/9602
+"UK and USA",RTEjr
+http://212.250.46.35:4252/bysid/9606
+"UK and USA",MOVIES 24/7
+http://167.114.65.88/hls/mv.m3u8
+"UK and USA",HBO
+http://198.27.94.105/hls/hbo_1.m3u8
+"UK and USA",STAR MOVİE HD
+http://113.160.49.34/…/orig…/moviehd.isml/moviehd-2096k.m3u8
+"UK and USA",AXN HD
+http://113.160.49.34/l…/origin03/axnhd.isml/axnhd-2096k.m3u8
+"UK and USA",CİNEMAX
+http://113.160.49.34/…/…/cinemaxsd.isml/cinemaxsd-1096k.m3u8
+"UK and USA",BBC 1
+http://93.184.221.133/00573D/1277/1277-0.m3u8
+"UK and USA",BBC ONE SCOTLAND
+http://wpc.573d.edgecastcdn.net/00573D/1277/1277-0.m3u8
+"UK and USA",ITV HD
+http://93.184.221.133/00573D/283/283-0.m3u8
+"UK and USA",CBS ACTION
+=http://93.184.221.133/00573D/711/711-0.m3u8
+"UK and USA",CBS REALITY
+=http://93.184.221.133/00573D/713/713-0.m3u8
+"UK and USA",CBS DRAMA
+http://93.184.221.133/00573D/712/712-0.m3u8
+"UK and USA",DAVE
+http://93.184.221.133/00573D/292/292-0.m3u8
+"UK and USA",C-MORE ACTION
+http://93.184.221.133/00573D/1460/1460-0.m3u8
+"UK and USA",CHANNEL 6
+http://93.184.221.133/00573D/231/231-0.m3u8
+"UK and USA",CHANNEL 4 Seven
+http://93.184.221.133/00573D/292/292-0.m3u8
+"UK and USA",LONDON LIVE
+http://bcoveliveios-i.akamaihd.net/…/308327…/master_900.m3u8
+"UK and USA",FASHION HD
+rtmp://95.67.8.43:1935/live/fashionhd
+"UK and USA",FASHION TV
+http://hls.novotelecom.ru/strea…/fashion/tvrec/playlist.m3u8
+"UK and USA",FASHION TV
+http://87.245.214.43/streaming/fashion/…/tvrec/playlist.m3u8
+"UK and USA",VICTORIA SECRETS
+http://46.249.213.93/…/victoriassecretangels-tablet.3gp-mr6…
+"UK and USA",ANIMAL PLANET
+http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8…
+"UK and USA",NAT GEO
+http://93.184.221.133/00573D/338/338-0.m3u8
+"UK and USA",DISCOVERY HISTORY
+http://93.184.221.133/00573D/1348/1348-0.m3u8
+"UK and USA",DISCOVERY CHANNEL
+http://93.184.221.133/00573D/1347/1347-0.m3u8
+"UK and USA",RT DOCUMENTARIES
+http://odna.octoshape.net/…/smil:ch5_auto.smil/playlist.m3u8
+"UK and USA",PINK ACTION
+http://str108.setplex.net/…/PinkActionglobal_r…/mojtube.m3u8
+"UK and USA",PINK ACTION 2
+http://str108.setplex.net/…/PinkAction2global_…/mojtube.m3u8
+"UK and USA",PINK FAMILY
+http://str108.setplex.net/…/PinkFamilyglobal_r…/mojtube.m3u8
+"UK and USA",PINK HORROR
+http://str108.setplex.net/…/PinkHorrorglobal_r…/mojtube.m3u8
+"UK and USA",PINK PREMIUM
+http://str108.setplex.net/…/PinkPremiumglobal_…/mojtube.m3u8
+"UK and USA",PINK MOVIES
+http://str108.setplex.net/…/PinkMoviesglobal_r…/mojtube.m3u8
+"UK and USA",PINK MOVIES 2
+http://str108.setplex.net/…/PinkMovies2global_…/mojtube.m3u8
+"UK and USA",PINK MOVIES 3
+http://str108.setplex.net/…/PinkMovies3global_…/mojtube.m3u8
+"UK and USA",NASA TV HD
+http://public.infozen.cshls.lldns.net/…/pu…/public_1000.m3u8
+"UK and USA",PENTAGON TV (USA)
+http://149.11.34.6:1935/live/pentagon.stream/playlist.m3u8…
+"UK and USA",CLASSIC LOONEY TUNES
+http://167.114.65.74/hls/lt.m3u8
+"UK and USA",FUTURAMA
+http://167.114.65.74/hls/fa.m3u8
+"UK and USA",AMERICAN DAD
+http://167.114.65.74/hls/ad.m3u8
+"UK and USA",FAMILY GUY
+http://167.114.65.74/hls/fg.m3u8
+"UK and USA",SOUTH PARK
+http://167.114.65.88/hls/sp.m3u8
+"UK and USA",KING OF THE HILL
+http://167.114.65.74/hls/kh.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0,A Pac  < cc-list.200-Start >
 mms://wm9.streaming.telstra.com/ucs-wh_APAC0Live2
 #EXTINF:0,Active Channel
 rtmp://d1yolrx8wdti.rtmphost.com/simulcast/livestream
@@ -400,5 +631,4 @@ rtsp://109.169.29.6/InformationTV/livestream/livestream
 http://media.WordofGod.gr/WordofGod150EN
 #EXTINF:0,wxyz Detroit
 mms://a52.l9563858051.c95638.n.lm.akamaistream.net/D/52/95638/v0001/reflector:58051
-#EXTINF:0,ZNS TV
-rtmp://powerstream.iphonewebtown.com:1935/synergybahamas/znstv13
+
