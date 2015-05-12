@@ -1,0 +1,185 @@
+
+
+#EXTM3U
+#EXTINF:-1,[COLOR yellow]by tutorial-iptv-xbmc.blogspot.com[/COLOR]
+
+
+
+#EXTINF:-1,HD Porn TV 18+  < cc-list.Drzulu XXXX-Start >
+
+http://188.165.220.116:8081/live/x/playlist.m3u8
+
+#EXTINF:-1,Chinese
+rtmp://149.3.141.210:1935/tv/ttv11
+
+#EXTINF:-1,Blue Hustler
+
+http://46.61.226.21/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+
+#EXTINF:-1,Playboy TV
+
+http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+
+#EXTINF:-1,XXL
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+
+#EXTINF:-1,XXX
+
+http://188.165.220.116:8081/live/3/playlist.m3u8
+
+#EXTINF:-1,Brasileirinhas
+
+http://212.129.30.215/brasileirinhas/brasileirinhas/chunklist_w219953667.m3u8
+
+#EXTINF:-1,XXL VOD1
+
+http://a7-60.5-69.cdn13.com/28000/28013/28013.flv
+
+#EXTINF:-1, XXL VOD2
+
+http://a7-60.5-69.cdn13.com/28000/28014/28014.flv
+
+#EXTINF:-1, XXL VOD3
+
+http://a7-60.5-69.cdn13.com/28000/28015/28015.flv
+
+#EXTINF:-1, XXL VOD4
+
+http://a7-60.5-69.cdn13.com/28000/28016/28016.flv
+
+#EXTINF:-1, XXL VOD5
+
+http://a7-60.5-69.cdn13.com/28000/28017/28017.flv
+
+#EXTINF:-1, XXL VOD6
+
+http://a7-60.5-69.cdn13.com/28000/28018/28018.flv
+
+#EXTINF:-1, XXL VOD7
+
+http://a7-60.5-69.cdn13.com/28000/28019/28019.flv
+
+#EXTINF:-1, XXL VOD8
+
+http://a7-60.5-69.cdn13.com/28000/28020/28020.flv
+
+#EXTINF:-1, XXL VOD9
+
+http://a7-60.5-69.cdn13.com/28000/28021/28021.flv
+
+#EXTINF:-1,private
+
+http://185.38.12.20:8088/private/
+
+
+
+
+#EXTINF:0,REDLIGHT HD
+rtmp://$OPT:rtmp-raw=rtmp://195.154.176.66:8082/private/private/ playpath=private swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://ero-tv.org/redlight_online/
+
+#EXTINF:0,ysatv
+rtmp://$OPT:rtmp-raw=rtmp://81.89.48.215/xyz999wkz/ playpath=***ysat.stream swfUrl=http://ero-tv.org/jwplayer/jwplayer.flash.swf live=1pageUrl=http://ero-tv.org/***ysat-tv_online/
+
+#EXTINF:-1,Prive
+
+http://cdn-edge01.livestreamcast.org:8081/erotic/phd61/chunklist_w1372963382.m3u8
+
+#EXTINF:-1,brazil (+18)
+rtmp://$OPT:rtmp-raw=rtmp://195.154.176.66:8082/hustlertv/hustlertv/ playpath=hustlertv swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=hustlerr&vh=410&vw=630
+
+#EXTINF:-1,sexysat
+rtmp://$OPT:rtmp-raw=rtmp://81.89.48.215/xyz999wkz/ playpath=sexysat.stream swfUrl=http://ero-tv.org/jwplayer/jwplayer.flash.swf live=1pageUrl=http://ero-tv.org/sexysat-tv_online/
+
+#EXTINF:-1,pink
+
+http://cdn-edge01.livestreamcast.org:8081/erotic/phd499/chunklist_w875156738.m3u8
+
+#EXTINF:0,PENTHOUSE HD
+rtmp://$OPT:rtmp-raw=rtmp://lm07.everyon.tv/ptv7/ playpath=pld10927 swfUrl=http://ero-tv.org/uppod/player5.swf live=1 pageUrl=http://ero-tv.org/penthouse_online/
+
+#EXTINF:0,BUTGOO
+rtmp://$OPT:rtmp-raw=rtmp://lm07.everyon.tv/ptv7/ playpath=pld772 swfUrl=http://ero-tv.org/uppod/player5.swf live=1 pageUrl=http://ero-tv.org/platinum_tv_online/
+
+#EXTINF:-1 pboy tv
+rtmp://$OPT:rtmp-raw=rtmp://195.154.176.66:8082/pboytv/pboytv/ playpath=pboytv swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embeds.php?c=pboytv&vw=650&vh=470
+
+#EXTINF:-1,:HUSTLER TV
+rtmp://$OPT:rtmp-raw=rtmp://195.154.176.66:8082/hustlertv/hustlertv/ playpath=hustlertv swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=hustlerr&vh=410&vw=630
+
+#EXTINF:0, O-la-la!
+
+http://iptv.multi-net.ru:80/udp/239.255.4.6:1234
+
+#EXTINF:0,French Lover
+
+http://iptv.multi-net.ru:80/udp/239.255.4.4:1234
+
+#EXTINF:0,Brazzers
+
+http://iptv.multi-net.ru:80/udp/239.255.4.7:1234
+
+
+#EXTINF:0,XXX Adult
+
+http://188.165.220.116:8081/live/x/playlist.m3u8
+
+#EXTINF:0,Play Boy
+
+http://37.59.45.208:6262/live/pt/gratis/200.ts
+
+#EXTINF:0,HOT
+
+http://37.59.45.208:6262/live/pt/gratis/201.ts
+
+
+
+
+
+#EXTINF:-1,Bunga TV                             WARNING ****ADULT****
+http://84.22.33.3:8066
+
+#EXTINF:1,Playboy
+http://iptv.sat-elit.net/iptv/5f1fa2c2ed33d74c89460dfc39eb1dd7/527/index.m3u8
+
+#EXTINF:1,P.B
+http://88.150.210.146/iptv/9da10de2b4a0499116d762e83c570cd7/527/index.m3u8
+
+#EXTINF:1,Russian Night
+http://iptv.sat-elit.net/iptv/5f1fa2c2ed33d74c89460dfc39eb1dd7/147/index.m3u8 
+
+#EXTINF:-1,RATUS42/RUSSIAN NIGHT
+http://185.38.12.20:8088/rusnoch/
+
+#EXTINF:-1,RATUS42/BLUE HUSTLER
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+
+#EXTINF:-1,RATUS42/OLALA
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+
+#EXTINF:-1,RATUS42/PRIVATE
+http://185.38.12.20:8088/private/
+
+#EXTINF:-1,Babestation
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+
+#EXTINF:-1,Babestation Blue
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+
+#EXTINF:-1,Babestation Unleashed
+http://46.105.116.159:1935/iptv_cellcast_24/livestream_three2/.m3u8
+
+#EXTINF:-1,Babestation Unleashed2
+http://178.33.126.213:1935/iptv_cellcast_24/livestream_two2/.m3u8
+
+#EXTINF:-1,Babestation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8 
+
+#EXTINF:1,egoist
+http://iptv.sat-elit.net/iptv/5f1fa2c2ed33d74c89460dfc39eb1dd7/526/index.m3u8
+
+#EXTINF:-1,RATUS42/EGOIST TV
+http://iptv.sat-x.tv/iptv/a34321a744a74c408c5186b476d0013459c54634/526/index.m3u8
+
+
+
