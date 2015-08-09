@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]--- 01-06-2015 ---[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] -- REDENEOBUX.COM 01-06-2015 --[/COLOR]  
+
+#EXTINF:-1,[COLOR yellow]--- INTERNATIONAL NEWS ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 group-title="NEWS",A24 ARGENTINA LATAM
+http://iphone-streaming.ustream.tv/ustreamVideo/17916700/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS",C5N ARGENTINA LATAM
+http://c5n.stweb.tv:1935/c5n/live_media/sat.m3u8
+#EXTINF:-1 group-title="NEWS",TN 24 HORAS HD ARGENTINA LATAM
+rtsp://stream.tn.com.ar/live/tnhd1 LATAM
+#EXTINF:-1 group-title="NEWS",CABLE NOTICIAS COLOMBIA LATAM
+http://50.23.172.98:1935/live/cablenoticiastv/sat.m3u8
+#EXTINF:-1 group-title="NEWS",EL TIEMPO COLOMBIA LATAM
+http://uneapple-i.akamaihd.net/hls/live/207648/grupoune_st29@207648/st29_index.m3u8
+#EXTINF:-1 group-title="NEWS",AZTECA NOTICIAS MEXICO LATAM
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1 group-title="NEWS",AZTECA NOTICIAS MEXICO LATAM OPTION 2
+http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?
+#EXTINF:-1 group-title="NEWS",CANAL M MEXICO LATAM
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=417&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 group-title="NEWS",TELESUR VENEZUELA LATAM
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
+#EXTINF:-1 group-title="NEWS",TVE 24 HORAS SPAIN
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="RussiaToday.png" group-title="News",  Russia Today (720)
+http://odna.octoshape.net/f3f5m2v4/cds/ch1_720p/chunklist.m3u8?Vd?u#bt!25
+#EXTINF:-1 group-title="NEWS",RUSSIA TODAY SPANISH
+http://odna.octoshape.net/f3f5m2v4/cds/ch2_320p/chunklist.m3u8
+#EXTINF:-1 group-title="NEWS",NDTV INDIA
+http://ndtv.indostan.epac.to/ndtv/247lo/live/native
+#EXTINF:-1 group-title="NEWS",RAI NEWS 24 ITALY
+http://httpstream2.rai.it/rn24.isml/QualityLevels(1256000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="NEWS",ALJAZEERA ENGLISH QATAR
+http://175.103.51.2:1935/live/aljazeera.stream/sat.m3u8
+#EXTINF:-1 group-title="NEWS",RUSSIA TODAY ENGLISH
+http://odna.octoshape.net/f3f5m2v4/cds/ch1_320p/chunklist.m3u8
+#EXTINF:-1 group-title="NEWS",SKY NEWS UK
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+#EXTINF:-1 group-title="NEWS",FRANCE 24 FRENCH
+http://tv.flux.france24.com/4684/02.m3u8
+#EXTINF:-1 group-title="NEWS",CNN TURKEY
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 group-title="NEWS",NEWS 7 RUSSIA
+http://hpg:disco@tv7-hls-eu-perm-live.hls.adaptive.level3.net/news7live.m3u8
+#EXTINF:-1 tvg-logo="I24.png" group-title="News",  i24 News (English)  
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8?Vd?u#bt!25
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 , Stock News
+rtmp://b.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/stocks/?husham.com
+#EXTINF:-1 tvg-logo="hln.png", HLN 1
+rtmp://c.cdn.newschat.tv/edge playpath=hln_live live=1   swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/twoons/?husham.com timeout=15
+#EXTINF:-1 , CNN News Live
+rtmp://a.cdn.newschat.tv/edge playpath=cnni_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/international/?husham.com
+#EXTINF:-1 , World News ( BBC News Sometimes)
+rtmp://a.cdn.newschat.tv/edge playpath=bbcwn_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/world/?husham.com
+#EXTINF:-1 , CCTV news
+http://77.36.61.45:8010/CCTVNews.m3u8?husham.com
+#EXTINF:-1 tvg-logo="Euronews.png" group-title="News",  Euronews SD (English)
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan350_rtp.sdp?Vd?u#bt!25
+#EXTINF:-1 tvg-logo="i24news", i24 News (English)
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8??husham.com
+#EXTINF:-1 , MSNBC
+rtmp://c.cdn.livenewschat.eu/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/player.swf swfVfy=1 live=1 pageUrl=http://weplaylive.tv timeout=15
+#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="etv_pt.png",Económico TV (Portugal)
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="Euronews.png" group-title=PORTUGAL,Euronews (Portugal)
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png",SIC NOTÍCIAS (Portugal)
+http://213.13.26.7:1936/live/_definst_/sicnoticias/playlist.m3u8
+#EXTINF:-1, TVI 24 (Portugal)
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w272103575_b814000.m3u8
+#EXTINF:-1 tvg-id="RTP INFORMAÇÃO" tvg-logo="RTP Informação.png" group-title="Canais Portugal",RTP INFORMAÇÃO (Portugal)
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
+#EXTINF:-1 ,Bussnews news
+rtmp://d.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/bloombug/?husham.com
+#EXTINF:-1 , CBC news (canada)
+rtmp://b.cdn.newschat.tv/edge playpath=cbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/canada/?husham.com
+#EXTINF:-1,New12 Broklyn
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000 playpath=fs-ace3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-ace3010000000000 pageUrl=http://www.news12.com/player/flowplayer/.live_player.html?region=BK live=true swfVfy=true timeout=10
+#EXTINF:-1, Alarabiya HD
+rtmp://167.114.101.234:1935/live?idu=lola123_77021940960/alarabiya
+#EXTINF:-1,Al Arabiya [COLOR red](BackUps)[/COLOR]
+rtmp://144.76.140.144:1935/jr1/AlArabiya
+#EXTINF:-1,Russia Alyam HD 1080
+http://odna.octoshape.net/f3f5m2v4/cds/ch3_auto.smil/playlist.m3u8
+#EXTINF:-1,BBC_arabic
+http://edge22.magictvbox.com/live/bbc_arabic/index.m3u8
+#EXTINF:-1,France_24_arabic
+http://edge20.magictvbox.com/live/france_24_arabic/index.m3u8
+#EXTINF:-1,DW Arabic
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:-1,Al-Kout-tv
+rtmp://66.23.237.233:1935/alkout/alkout
+#EXTINF:-1,i24News AR
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
+#EXTINF:-1,Al Alam tv
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/alalam/ls_fiber/b_828.m3u8
+#EXTINF:-1,Alhurra Tv
+rtmp://cp51007.live.edgefcs.net/live/Alhurra_Flash@15
+#EXTINF:-1,Echorouk TV
+http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
+#EXTINF:-1,BBC World News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:-1,ABC News (US)
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1,Al Jazeera News (US)
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8
+#EXTINF:0, DD News
+http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddnewslive.m3u8
+#EXTINF:0, MH1 News
+http://80.243.182.106:8080/mh1/mh1news/index.m3u8
+#EXTINF:0, News Nation
+http://54.255.176.172:1935/live/smil:mystream.smil/playlist.m3u8
+#EXTINF:-1,PAKISTAN:ARY News
+rtmp://93.115.85.17:1935/ARYNEWS_2/myStream_240p
+#EXTINF:-1,PAKISTAN:PRESS TV
+rtmp://mtv.fms-01.visionip.tv/live/mtv-ptv-live-25f-16x9-SDh?ref=www.presstv.ir&USER=MTV+-+PTV+Stream
+#EXTINF:-1,PAKISTAN:Sama Tv
+rtmp://38.96.148.99:1935/samaalive/samaalive
+#EXTINF:0, Sadhna News
+http://edge-ind.inapcdn.in:1935/berry/sfmacb4.stream_aac/playlist.m3u8
+#EXTINF:-1,Sama News
+rtsp://38.96.148.99:1935/live/bb
+#EXTINF:0, Shiri News
+http://live.wmncdn.net/shrinewstv/e2c1680f2177d9647a218609a3a2fd5e.sdp/playlist.m3u8
+#EXTINF:-1, EuroNews Turkishe 
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/tr_vidan750_rtp.sdp 
+#EXTINF:-1, EuroNews Arabic 
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/ar_vidan750_rtp.sdp 
+#EXTINF:-1, EuroNews English 
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp 
+#EXTINF:-1, EuroNews French 
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/fr_vidan750_rtp.sdp 
+#EXTINF:-1, EuroNews German 
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/de_vidan750_rtp.sdp 
+#EXTINF:-1, EuroNews Italian 
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/it_vidan750_rtp.sdp 
+#EXTINF:-1, EuroNews Portuguese 
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp 
+#EXTINF:-1, EuroNews Russian 
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/ru_vidan750_rtp.sdp 
+#EXTINF:-1, EuroNews Spanish 
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp

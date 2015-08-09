@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]--- 01-06-2015 ---[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] -- REDENEOBUX.COM 01-06-2015 --[/COLOR]  
+
+#EXTINF:-1,[COLOR yellow]--- Series Dubladas em Portugues 24/7 ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="bigbanghd.jpg" tvg-logo="http://logos.iptvglobal.com.br/bigbanghd.jpg" group-title="Séries 24 horas",BIG BANG
+rtmp://208.53.180.178/ctv playpath=big swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/bigbang.html
+
+#EXTINF:-1 tvg-logo="Breaking%20Bad.jpg" tvg-logo="http://logos.iptvglobal.com.br/Breaking%20Bad.jpg" group-title="Séries 24 horas",Breaking Bad 
+rtmp://208.53.180.130/ctv playpath=breaking swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/breaking.html
+
+#EXTINF:-1 tvg-logo="Castelo%20Ra%20Tim%20Bum.jpg" tvg-logo="http://logos.iptvglobal.com.br/Castelo%20Ra%20Tim%20Bum.jpg" group-title="Séries 24 horas",Castelo Rá Tim Bum
+http://62.210.88.208:8081/chapolin/chapolin/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMTUgMzoxODoyMiBQTSZoYXNoX3ZhbHVlPXgyQUljOXMxRVZvd05zTXMwQU1YQ3c9PSZ2YWxpZG1pbnV0ZXM9MzA=
+
+#EXTINF:-1 tvg-logo="Chapolin.jpg" tvg-logo="http://logos.iptvglobal.com.br/Chapolin.jpg" group-title="Séries 24 horas",Chapolin
+http://62.210.82.241:8081/chapolin.m3u8
+
+#EXTINF:-1 tvg-logo="Chaves.jpg" tvg-logo="http://logos.iptvglobal.com.br/Chaves.jpg" group-title="Séries 24 horas",Chaves
+rtmp://208.53.180.218/ctv playpath=chaves swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/chaves.html
+
+#EXTINF:-1 tvg-logo="Chuck.jpg" tvg-logo="http://logos.iptvglobal.com.br/Chuck.jpg" group-title="Séries 24 horas",Chuck
+rtmp://208.53.180.218/ctv playpath=chuck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/chuck.html
+
+#EXTINF:-1 tvg-logo="Chuck.jpg" tvg-logo="http://logos.iptvglobal.com.br/Chuck.jpg" group-title="Séries 24 horas",Chuck
+rtmp://208.53.180.178/ctv playpath=chuck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/chuck.html
+
+#EXTINF:-1 tvg-logo="CSI.jpg" tvg-logo="http://logos.iptvglobal.com.br/CSI.jpg" group-title="Séries 24 horas",CSI
+rtmp://208.53.180.130/ctv playpath=csi swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/csi.html
+
+#EXTINF:-1 tvg-logo="Dois%20Homens%20e%20Meio.jpg" tvg-logo="http://logos.iptvglobal.com.br/Dois%20Homens%20e%20Meio.jpg" group-title="Séries 24 horas",Dois homens e meio
+rtmp://208.53.180.130/ctv playpath=two swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/two.html
+
+#EXTINF:-1 tvg-logo="Drake%20e%20Josh.jpg" tvg-logo="http://logos.iptvglobal.com.br/Drake%20e%20Josh.jpg" group-title="Séries 24 horas",Drake e Josh
+rtmp://208.53.180.242/ctv playpath=drake swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/drakejosh.html
+
+#EXTINF:-1 tvg-logo="EPatroaCrians.jpg" tvg-logo="http://logos.iptvglobal.com.br/EPatroaCrians.jpg" group-title="Séries 24 horas",Eu A patroa e as crianças
+rtmp://208.53.164.194/ctv playpath=patroa swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?iptvglobal live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/patroa.html
+#EXTINF:-1 tvg-logo="EPatroaCrians.jpg" tvg-logo="http://logos.iptvglobal.com.br/EPatroaCrians.jpg" group-title="Séries 24 horas",Eu A patroa e as crianças
+http://62.210.83.152:8081/patroa/patroa/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMTUgMjo1MzowMiBQTSZoYXNoX3ZhbHVlPVkwcHFiaHlLeWk1cmFDSWMxVmFMQlE9PSZ2YWxpZG1pbnV0ZXM9MzA=
+
+#EXTINF:-1 tvg-logo="gameofthrones.jpg" tvg-logo="http://logos.iptvglobal.com.br/gameofthrones.jpg" group-title="Séries 24 horas",Game Of Thrones 
+[COLOR red][I][B][I][B]Off [/B][/I][/COLOR]
+http://62.210.83.180:8081/game/game/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMTUgMjo1NDo0MCBQTSZoYXNoX3ZhbHVlPWFHaVBzdk9DVmR6d0tTc3ZWK09rRXc9PSZ2YWxpZG1pbnV0ZXM9MzA=
+
+#EXTINF:-1 tvg-logo="Glee.jpg" tvg-logo="http://logos.iptvglobal.com.br/Glee.jpg" group-title="Séries 24 horas",Glee
+rtmp://208.53.180.242/ctv playpath=glee swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/glee.html
+
+#EXTINF:-1 tvg-logo="Gossip%20Girl.jpg" tvg-logo="http://logos.iptvglobal.com.br/Gossip%20Girl.jpg" group-title="Séries 24 horas",Gossip Girl
+rtmp://208.53.164.194/ctv playpath=gossip swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/gossip.html
+
+#EXTINF:-1 tvg-logo="Heroes.jpg" tvg-logo="http://logos.iptvglobal.com.br/Heroes.jpg" group-title="Séries 24 horas",Heroes
+rtmp://208.53.180.130/ctv playpath=heroes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/heroes.html
+
+#EXTINF:-1 tvg-logo="Icarly.jpg" tvg-logo="http://logos.iptvglobal.com.br/Icarly.jpg" group-title="Séries 24 horas",Icarly
+rtmp://208.53.180.130/ctv playpath=icarly swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/icarly.html
+
+#EXTINF:-1 tvg-logo="jaspion.jpg" tvg-logo="http://logos.iptvglobal.com.br/jaspion.jpg" group-title="Séries 24 horas",Jaspion
+rtmp://208.53.164.194/ctv playpath=jaspion swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas live=1 pageUrl=http://aovivobrasil.com/tvamigos/jaspion.html
+#EXTINF:-1 tvg-logo="KenaneKell.jpg" tvg-logo="http://logos.iptvglobal.com.br/KenaneKell.jpg" group-title="Séries 24 horas",Kenan e kel
+rtmp://208.53.164.194/ctv playpath=kenan swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/kenanekel.html
+
+#EXTINF:-1 tvg-logo="lost.jpg" tvg-logo="http://logos.iptvglobal.com.br/lost.jpg" group-title="Séries 24 horas",Lost
+rtmp://208.53.180.242/ctv playpath=lost swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/lost.html
+
+#EXTINF:-1 tvg-logo="MrBean.jpg" tvg-logo="http://logos.iptvglobal.com.br/MrBean.jpg" group-title="Séries 24 horas",MR BEAN
+#rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv01/mogulus-user-files/chmrbean/2008/07/13/0656019f-e01e-465d-84bb-9b2373e4987b swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://www.tvonlinegratis.tv/canais/mr-bean.php
+
+#EXTINF:-1 tvg-logo="panico.jpg" tvg-logo="http://logos.iptvglobal.com.br/panico.jpg" group-title="Séries 24 horas",Panico na Band
+[COLOR red][I][B][I][B]Off [/B][/I][/COLOR
+#rtmp://212.129.30.215/panico/ playpath=panico swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf&itvjonas pageUrl=http://livestreamcast.org/embed.php?c=panico&vh=100%&vw=100%
+
+#EXTINF:-1 tvg-logo="PrisonBreak.jpg" tvg-logo="http://logos.iptvglobal.com.br/PrisonBreak.jpg" group-title="Séries 24 horas",Prison Break
+rtmp://208.53.180.242/ctv playpath=prison swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/prisonbreak.html
+#EXTINF:-1 tvg-logo="SmallVille.jpg" tvg-logo="http://logos.iptvglobal.com.br/SmallVille.jpg" group-title="Séries 24 horas",SmallVille
+rtmp://208.53.164.194/ctv playpath=small swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/small.html
+
+#EXTINF:-1 tvg-logo="Supernatural.jpg" tvg-logo="http://logos.iptvglobal.com.br/Supernatural.jpg" group-title="Séries 24 horas",Sobrenatural
+rtmp://208.53.180.130/ctv playpath=supernatural swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/supernatural.html
+
+#EXTINF:-1 tvg-logo="TheBigBangTheory.jpg" tvg-logo="http://logos.iptvglobal.com.br/TheBigBangTheory.jpg" group-title="Séries 24 horas",The Big Bang Theory
+rtmp://208.53.180.130/ctv playpath=big swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/bigbang.html
+
+#EXTINF:-1 tvg-logo="The%20Vampire%20Diaries.jpg" tvg-logo="http://logos.iptvglobal.com.br/The%20Vampire%20Diaries.jpg" group-title="Séries 24 horas",The Vampire Diaries
+[COLOR red][I][B][I][B]Off [/B][/I][/COLOR]
+rtmp://85.12.5.8/aovivo/ playpath=theflash swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf?iptvglobal live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/theflash.php
+
+#EXTINF:-1 tvg-logo="the-walking-dead.jpg" tvg-logo="http://logos.iptvglobal.com.br/the-walking-dead.jpg" group-title="Séries 24 horas",The Walking Dead
+[COLOR red][I][B][I][B]Off [/B][/I][/COLOR]
+#rtmp://212.129.30.215/twd/twd playpath=twd swfUrl=http://www.tvonlinegratis.tv/player.swf&itvjonas pageUrl=http://www.tvonlinegratis.tv/parcerias/twd.php
+
+#EXTINF:-1 tvg-logo="todo%20mundo%20odeia%20o%20cris.jpg" tvg-logo="http://logos.iptvglobal.com.br/todo%20mundo%20odeia%20o%20cris.jpg" group-title="Séries 24 horas",Todo Munda odeia o Chris 
+rtmp://208.53.164.194/ctv playpath=cris swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/cris.html
+
+#EXTINF:-1 tvg-logo="Ummaluconopeda.jpg" tvg-logo="http://logos.iptvglobal.com.br/Ummaluconopeda.jpg" group-title="Séries 24 horas",Um maluco no pedaço.
+rtmp://208.53.164.194/ctv playpath=maluconopedaco swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/maluconopedaco.html

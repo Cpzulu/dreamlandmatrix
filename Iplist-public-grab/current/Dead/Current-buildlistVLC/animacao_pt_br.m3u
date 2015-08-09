@@ -1,0 +1,122 @@
+#EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]--- 31-05-2015 ---[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 31-05-2015--[/COLOR]  
+
+#EXTINF:-1,[COLOR yellow]--- Desenhos Animados Dublados em Português 24/7 ---[/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1 tvg-logo="Batman.jpg" tvg-logo="http://logos.iptvglobal.com.br/Batman.jpg" group-title="Desenhos 24 horas",Batman
+rtmp://208.53.164.194/ctv playpath=batman swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/batman.html
+
+#EXTINF:-1 tvg-logo="Ben10.jpg" tvg-logo="http://logos.iptvglobal.com.br/Ben10.jpg" group-title="Desenhos 24 horas",Ben 10
+rtmp://208.53.180.178/ctv playpath=ben10 swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/ben10.html
+
+#EXTINF:-1 tvg-logo="Bob%20Esponja.jpg" tvg-logo="http://logos.iptvglobal.com.br/Bob%20Esponja.jpg" group-title="Desenhos 24 horas",Bob Esponja
+rtmp://208.53.164.194/ctv playpath=bob swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/bobesponja.html
+
+#EXTINF:-1 tvg-logo="Cavaleiros%20do%20Zodiaco.jpg" tvg-logo="http://logos.iptvglobal.com.br/Cavaleiros%20do%20Zodiaco.jpg" group-title="Desenhos 24 horas",Cavaleiros do Zodiaco
+rtmp://208.53.180.130/ctv playpath=cdz swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/cdz.html
+
+#EXTINF:-1 tvg-logo="Caverna%20do%20Drag%C3%A3o.jpg" tvg-logo="http://logos.iptvglobal.com.br/Caverna%20do%20Drag%C3%A3o.jpg" group-title="Desenhos 24 horas",Caverna do Dragão
+rtmp://208.53.180.242/ctv playpath=caverna swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/caverna.html
+
+#EXTINF:-1 tvg-logo="Digimon.jpg" tvg-logo="http://logos.iptvglobal.com.br/Digimon.jpg" group-title="Desenhos 24 horas",Digimon
+rtmp://212.129.30.215/digimon playpath=digimon swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf&itvjonas pageUrl=http://livestreamcast.org/embed.php?c=digimon&vw=100%&vh=100%.html
+
+#EXTINF:-1 tvg-logo="Doug.jpg" tvg-logo="http://logos.iptvglobal.com.br/Doug.jpg" group-title="Desenhos 24 horas",Doug
+rtmp://208.53.180.130/ctv playpath=doug swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/doug.html
+
+#EXTINF:-1 tvg-logo="Dragon-Ball-Z-logo.jpg" tvg-logo="http://logos.iptvglobal.com.br/Dragon-Ball-Z-logo.jpg" group-title="Desenhos 24 horas",Dragon Ball Z
+rtmp://208.53.180.218/ctv playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/dbz.html
+
+#EXTINF:-1 tvg-logo="Familia%20Dinossauro.jpg" tvg-logo="http://logos.iptvglobal.com.br/Familia%20Dinossauro.jpg" group-title="Desenhos 24 horas",Familia Dinossauros
+rtmp://208.53.180.218/ctv playpath=dino swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/dinossauros.html
+
+
+#EXTINF:-1 tvg-logo="Familia%20Dinossauro.jpg" tvg-logo="http://logos.iptvglobal.com.br/Familia%20Dinossauro.jpg" group-title="Desenhos 24 horas",Familia Dinossauros (Wonder)
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chtvtfamiliadinosauros/2012/05/12/052e4e4b-977f-4382-9ac8-31613b0074c4 swfUrl=http://player.longtailvideo.com/[[IMPORT]]/cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=true pageUrl=http://tvonlinegratis.tv/canais/familia-dinossauros.php
+
+#EXTINF:-1 tvg-logo="bob.jpg" tvg-logo="http://logos.iptvglobal.com.br/bob.jpg" group-title="Desenhos 24 horas",Fantástico mundo de Bobby
+rtmp://208.53.180.242/ctv playpath=bobby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?iptvjonas live=1 pageUrl=http://aovivobrasil.com/tvamigos/bobby.html
+
+#EXTINF:-1 tvg-logo="Futurama.jpg" tvg-logo="http://logos.iptvglobal.com.br/Futurama.jpg" group-title="Desenhos 24 horas",FUTURAMA
+rtmp://208.53.164.194/ctv playpath=futurama swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/futurama.html
+
+#EXTINF:-1 tvg-logo="Galinha%20Pintadinha.jpg" tvg-logo="http://logos.iptvglobal.com.br/Galinha%20Pintadinha.jpg" group-title="Desenhos 24 horas",Galinha Pintadinha
+rtmp://208.53.164.194/ctv playpath=galinha swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/galinhapintadinha.html
+
+#EXTINF:-1 tvg-logo="LigadaJusti.jpg" tvg-logo="http://logos.iptvglobal.com.br/LigadaJusti.jpg" group-title="Desenhos 24 horas",Liga da Justiça
+rtmp://85.12.5.8/aovivo/ playpath=liga2015 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf&itvjonas pageUrl=http://www.tvonlinegratis.tv/parcerias/liga-da-justica.php
+
+#EXTINF:-1 tvg-logo="jackie.jpg" tvg-logo="http://logos.iptvglobal.com.br/jackie.jpg" group-title="Desenhos 24 horas",Jackie chan
+rtmp://208.53.180.242/ctv playpath=jackie swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/jackie.html
+
+#EXTINF:-1 tvg-logo="jaspion.jpg" tvg-logo="http://logos.iptvglobal.com.br/jaspion.jpg" group-title="Desenhos 24 horas",Jaspion
+rtmp://208.53.180.242/ctv playpath=jaspion swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://aovivobrasil.com/tvamigos/jaspion.html
+#EXTINF:-1 tvg-logo="MandaChuva.jpg" tvg-logo="http://logos.iptvglobal.com.br/MandaChuva.jpg" group-title="Desenhos 24 horas",Manda chuva
+rtmp://212.129.30.215/turmadomandachuva/ playpath=turmadomandachuva swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf&itvjonas pageUrl=http://livestreamcast.org/embed.php?c=turmadomandachuva&vw=468&vh=360
+
+#EXTINF:-1 tvg-logo="Naruto.jpg" tvg-logo="http://logos.iptvglobal.com.br/Naruto.jpg" group-title="Desenhos 24 horas",Naruto DB
+rtmp://208.53.180.130/ctv playpath=naruto swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/naruto.html
+
+#EXTINF:-1 tvg-logo="Naruto.jpg" tvg-logo="http://logos.iptvglobal.com.br/Naruto.jpg" group-title="Desenhos 24 horas",Naruto Shipudem
+rtmp://195.154.216.152/naruto/naruto playpath=naruto swfUrl=http://www.tvonlinegratis.tv/player.swf?iptvjonas pageUrl=http://www.tvonlinegratis.tv/parcerias/naruto.php
+
+#EXTINF:-1 tvg-logo="Os%20Jetsons.jpg" tvg-logo="http://logos.iptvglobal.com.br/Os%20Jetsons.jpg" group-title="Desenhos 24 horas",Os Jetsons (Wonder)
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chosjetsons/2011/12/02/a5fa7a37-b290-4cc8-b451-fa2c940601d3 swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=true pageUrl=http://www.tvonlinebtv.net/streans/jetsons.html
+
+#EXTINF:-1 tvg-logo="Os%20Flintstones.jpg" tvg-logo="http://logos.iptvglobal.com.br/Os%20Flintstones.jpg" group-title="Desenhos 24 horas",Os FLINTSTONES
+rtmp://208.53.180.130/ctv playpath=flinstones swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/flintstones.html
+
+#EXTINF:-1 tvg-logo="OsPadrinhosMgicos.jpg" tvg-logo="http://logos.iptvglobal.com.br/OsPadrinhosMgicos.jpg" group-title="Desenhos 24 horas",Os Padrinhos Magicos
+rtmp://85.12.5.8/aovivo playpath=padrinhos swfUrl=http://www.tvonlinegratis.tv/protegido.swf&itvjonas pageUrl=http://www.tvonlinegratis.tv/parcerias/padrinhos-magicos.php
+
+#EXTINF:-1 tvg-logo="omaskara.jpg" tvg-logo="http://logos.iptvglobal.com.br/omaskara.jpg" group-title="Desenhos 24 horas",O maskara
+rtmp://208.53.180.130/ctv playpath=maskara swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/maskara.html
+
+#EXTINF:-1 tvg-logo="Papalguas.jpg" tvg-logo="http://logos.iptvglobal.com.br/Papalguas.jpg" group-title="Desenhos 24 horas",Papa-leguas
+rtmp://212.129.30.215/papaleguas/papaleguas playpath=papaleguas swfUrl=http://www.vertvgratis.eu/player.swf&iptvglobal pageUrl=http://www.vertvgratis.eu/parceiros/papaleguas.html
+
+#EXTINF:-1 tvg-logo="Peppa%20Pig.jpg" tvg-logo="http://logos.iptvglobal.com.br/Peppa%20Pig.jpg" group-title="Desenhos 24 horas",Peppa Pig [COLOR red][I][B][I][B] Off [/B][/I][/COLOR]
+rtmp://195.154.222.28/peppapig/peppapig playpath=peppapig swfUrl=http://www.tvonlinegratis.tv/player.swf?iptvglobal live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/peppapig.php
+
+#EXTINF:-1 tvg-logo="Pica%20Pau.jpg" tvg-logo="http://logos.iptvglobal.com.br/Pica%20Pau.jpg" group-title="Desenhos 24 horas",Pica Pau
+rtmp://208.53.164.194/ctv playpath=picapau swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/picapau.html
+
+#EXTINF:-1 tvg-logo="Pok%C3%A9mon.jpg" tvg-logo="http://logos.iptvglobal.com.br/Pok%C3%A9mon.jpg" group-title="Desenhos 24 horas",Pokemon
+rtmp://85.12.5.8/aovivo playpath=pokemonhd swfUrl=http://www.tvonlinegratis.tv/protegido.swf&itvjonas pageUrl=http://www.tvonlinegratis.tv/parcerias/pokemon.php?pagina
+
+#EXTINF:-1 tvg-logo="Scooby%20Doo.jpg" tvg-logo="http://logos.iptvglobal.com.br/Scooby%20Doo.jpg" group-title="Desenhos 24 horas",Scobby doo
+rtmp://208.53.180.178/ctv playpath=scooby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/scooby.html
+
+#EXTINF:-1 tvg-logo="Os%20Simpsons.jpg" tvg-logo="http://logos.iptvglobal.com.br/Os%20Simpsons.jpg" group-title="Desenhos 24 horas",Simpsons
+rtmp://208.53.180.178/ctv playpath=simpsons swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/simpsons.html
+
+#EXTINF:-1 tvg-logo="Os%20Simpsons.jpg" tvg-logo="http://logos.iptvglobal.com.br/Os%20Simpsons.jpg" group-title="Desenhos 24 horas",Simpsons
+rtmp://208.53.180.218/ctv playpath=simpsons swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/simpsons.html
+
+#EXTINF:-1 tvg-logo="Sout%20Park.jpg" tvg-logo="http://logos.iptvglobal.com.br/Sout%20Park.jpg" group-title="Desenhos 24 horas",South Park
+rtmp://208.53.180.130/ctv playpath=southpark swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/southpark.html
+
+#EXTINF:-1 tvg-logo="Tom%20e%20Jerry.jpg" tvg-logo="http://logos.iptvglobal.com.br/Tom%20e%20Jerry.jpg" group-title="Desenhos 24 horas",Tom e Jerry
+rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
+
+#EXTINF:-1 tvg-logo="Thundercats.jpg" tvg-logo="http://logos.iptvglobal.com.br/Thundercats.jpg" group-title="Desenhos 24 horas",Thunder Cats
+rtmp://208.53.164.194/ctv playpath=thunder swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/thunder.html
+
+#EXTINF:-1 tvg-logo="Thundercats.jpg" tvg-logo="http://logos.iptvglobal.com.br/Thundercats.jpg" group-title="Desenhos 24 horas",Thunder Cats (Nova Geração)
+rtmp://195.154.222.28/thundercats/thundercats playpath=thundercats swfUrl=http://www.tvonlinegratis.tv/player.swf&itvjonas pageUrl=http://www.tvonlinegratis.tv/parcerias/thundercats.php
+
+#EXTINF:-1 tvg-logo="Thundercats.jpg" tvg-logo="http://logos.iptvglobal.com.br/Thundercats.jpg" group-title="Desenhos 24 horas",Thunder Cats [classico]
+rtmp://195.154.222.28/thundernovo/thundernovo playpath=thundernovo swfUrl=http://www.tvonlinegratis.tv/player.swf&itvjonas pageUrl=http://www.tvonlinegratis.tv/parcerias/novos-thundercats.php
+
+
+#EXTINF:-1 tvg-logo="UMAfamilyguy.jpg" tvg-logo="http://logos.iptvglobal.com.br/UMAfamilyguy.jpg" group-title="Desenhos 24 horas",Uma familia da pesada
+rtmp://208.53.164.194/ctv playpath=family swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/family.html
+
+#EXTINF:-1 tvg-logo="xmen.jpg" tvg-logo="http://logos.iptvglobal.com.br/xmen.jpg" group-title="Desenhos 24 horas",XMEN
+rtmp://208.53.180.242/ctv playpath=xmen swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/xmen.html
+
+#EXTINF:-1 tvg-logo="YuGiOh.jpg" tvg-logo="http://logos.iptvglobal.com.br/YuGiOh.jpg" group-title="Desenhos 24 horas",YUGIOH
+rtmp://208.53.180.178/ctv playpath=yugioh  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?jonasiptv pageUrl=http://carolineoliveira.com.br/tvamigos/yugioh.html
