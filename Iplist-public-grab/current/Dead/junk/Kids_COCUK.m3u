@@ -1,0 +1,31 @@
+﻿#EXTM3U
+#EXTINF:-1,***HasBahCa IPTV***Kids ÇOCUK***
+http://bilgidiyari.net/m3u/turkiye.mp4
+#EXTINF:-1,ARABIC-AlJazeera Children
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
+#EXTINF:-1,DEUTSCH-Disney Channel
+http://bilgidiyari.net/iptv/de/0036.m3u8
+#EXTINF:-1,FRANCE Minimax 7h-19h
+http://teleclub.fr/minimax.mp4
+#EXTINF:-1,FRANSA-Cartoon Network
+http://pvr.tvip.ga/0239.m3u8
+#EXTINF:-1,ITALIA RAİ YOYO mms
+mms://212.162.68.162/rai_yoyo
+#EXTINF:-1,RUS-Disney Channel
+http://edge.ailetv.net/org4/disney_me/playlist.m3u8
+#EXTINF:-1,TURK ÇİZGİ FİLM TV mmsh
+mmsh://yayin.networkbil.com/cizgifilmtv
+#EXTINF:-1,TURK PLANET ÇOCUK
+rtmp://77.223.146.117/live/planetc
+#EXTINF:-1,TURK TRT COCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1,TÜRK-TRT COCUK
+http://pvr.tvip.ga/0810.m3u8
+#EXTINF:-1,TÜRK-TRT COCUK HD
+http://pvr.tvip.ga/0811.m3u8
+#EXTINF:-1,TÜRK-TRT COCUK HD.m3u8  1280*720
+http://bilgidiyari.net/iptv/tr/HasBahCa_TRT_COCUK_HD.m3u8
+#EXTINF:-1,TÜRK-TRT COCUK_SD.m3u8 852*480
+http://bilgidiyari.net/iptv/tr/HasBahCa_TRT_COCUK_SD.m3u8
+#EXTINF:-1,USA-Cartoon (RU/EN Audio)
+http://hls.svc.moyo.tv/hls/CH_CARTOON/variant.m3u8?version=2

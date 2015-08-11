@@ -1,0 +1,432 @@
+#EXTM3U
+ 
+http://?
+#EXTINF:-1,.: CINE - SERIES y ENTRETENIMIENTO :.
+ 
+#EXTINF:-1 group-title="Cine",Fox 1 HD 1080
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",Fox Movies HD 1080
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",Fox Action HD 1080
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",Fox Cinema
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",Fox Classics
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",Fox Family
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",Cinecanal + HD 1080
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",Cinecanal
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",TNT HD 1080
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",The Film Zone HD 1080
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",Golden HD 1080
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",Golden Edge
+http://200.76.77.237/LIVE/H01/CANAL491/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Cine",AMC HD 1080
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",Space HD 1080
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",Cinemax
+http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",Studio Universal
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",I.Sat
+http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",TCM
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",De Pelicula HD 1080
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE05.m3u8?
+ 
+ 
+#EXTINF:-1 group-title="Cine",Fox Mexico HD 1080
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",Fox SD 16:9
+rtmp://46.28.49.44/live playpath=comunidad23?id=224349  swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf  pageUrl=http://www.mipsplayer.com/embedplayer/comunidad23/1/620/382
+ 
+#EXTINF:-1 group-title="Cine",Universal HD 1080
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",Universal Channel (México)
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",Sony HD 1080
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",Warner HD 1080
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",TNT Series HQ
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",FX HD 1080
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",FX SD 4:3 (México)
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",SyFy HQ
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",SyFy
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="Cine",AXN HD 1080
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Entretenimiento",A&E HD 1080
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Entretenimiento",TBS
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="Entretenimiento",Comedy Central HD 1080
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Entretenimiento",Distrito Comedia
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="Entretenimiento",Canal Antiestres (Ex Humor Channel)
+http://uneapple-i.akamaihd.net/hls/live/206413/grupoune_st12@206413/st12_index.m3u8
+ 
+#EXTINF:-1 group-title="Entretenimiento",TruTV HD 1080
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Entretenimiento",BBC Entertainment
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="Entretenimiento",E! Entertainment Television
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
+ 
+#EXTINF:-1 group-title="Entretenimiento",News People TV
+http://149.1#EXTINF:-1 group-title="Entretenimiento",.: VIDA - ESTILO y TELENOVELAS :.
+ 
+#EXTINF:-1 group-title="Entretenimiento",My Zen TV HD 1080
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_C05_MYZENTVHD/variant.m3u8
+#EXTINF:-1 group-title="Vida",Glitz
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Vida",Fox Life
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Vida",El Gourmet
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Vida",TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Vida",Home & Health
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Vida",Lifetime
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Vida",Casa Club
+http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Vida",Trendy Channel
+http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_index.m3u8
+#EXTINF:-1 group-title="Vida",Fashion TV HD 720
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Novelas",Tlnovelas
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Novelas",Tlnovelas Alt
+rtmp://178.162.194.34/live playpath=noveliscos?id=222946  swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf  pageUrl=http://www.mipsplayer.com/embedplayer/noveliscos/1/620/400
+#EXTINF:-1 group-title="Novelas",Az Corazon
+http://200.76.77.237/LIVE/H01/CANAL45/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Infantil",CBeebies
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Infantil",Disney Jr
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Infantil",Nick Jr
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Infantil",Discovery Kids
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Infantil",Disney Channel
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Infantil",Disney XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Infantil",NickToons
+http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Infantil",Nick HD 1080
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Infantil",Nickelodeon
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Infantil",Cartoon Network
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Infantil",Tooncast
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Infantil",Boomerang
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Infantil",TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Infantil",Paka Paka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:-1 group-title="Infantil",Ta Te Ti
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Documental",Animal Planet
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Documental",NatGeo Wild HD 1080
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Documental",NatGeo
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Documental",Discovery Channel
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Documental",Discovery en Español
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="Documental",History HD 1080
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Documental",History 2
+rtmp://178.162.194.34/live playpath=tutvache2?id=219540  swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf  pageUrl=http://www.mipsplayer.com/embedplayer/tutvache2/1/660/400
+#EXTINF:-1 group-title="Documental",Discovery World HD 1080
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Documental",DiscoveryTheater HD 1080
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Documental",Discovery Civilization
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Documental",Investigation Discovery
+http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Documental",Discovery Science
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Documental",Ingenio TV
+http://cdn.xsn.com.mx/Segments/HLS_TS/rtmplive/live/canal30dgtv.mp4.m3u8?
+#EXTINF:-1 group-title="Documental",NASA TV HD 720
+http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8
+#EXTINF:-1 group-title="Documental",Tec TV
+http://lsdencuentrohls-lh.akamaihd.net/i/TECTVHLS_1@198012/master.m3u8
+#EXTINF:-1 group-title="Documental",SUN Channel
+http://uneapple-i.akamaihd.net/hls/live/206418/grupoune_st17@206418/st17_index.m3u8
+#EXTINF:-1 group-title="Viajes",Mexico Travel Channel
+http://cdns840stu1010.multistream.net/mtchlive/amlst:live/chunklist_b900000.m3u8
+#EXTINF:-1 group-title="Viajes",ViajAR
+http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8#EXTINF:-1 group-title="Deportes",Discovery Turbo
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Deportes",Motors TV
+http://46.61.226.21/hls/CH_MOTORSTV/variant.m3u8?version=2
+#EXTINF:-1 group-title="Deportes",SKY Sports F1
+rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskysf1&vw=650&vh=470&domain=cricbox.tv token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskysf1
+#EXTINF:-1 group-title="Deportes",Fox Sports México HD 1080
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Deportes",Fox Sports U.S.A HD 720
+http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports Argentina
+http://cctv2-lh.akamaihd.net/i/rovaldimix_live@125196/index_1080p_av-p.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports 2 México HD 1080
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Deportes",ESPN HD 1080
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?
+ 
+#EXTINF:-1 group-title="Deportes",ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Deportes",ESPN 3 HD 1080
+#EXTINF:-1 group-title="Deportes",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?#EXTINF:-1 group-title="Noticias",TN
+rtsp://stream.tn.com.ar/live/tnhd1
+#EXTINF:-1 group-title="Noticias",C5N
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1 group-title="Noticias",Canal 26 Noticias
+rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
+#EXTINF:-1 group-title="Noticias",A24
+http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",360TV
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:-1 group-title="Noticias",Canal Rural
+rtsp://streamrural.cmd.com.ar:1935/liverural/crural/rural1
+#EXTINF:-1 group-title="Noticias",CNN Chile
+rtsp://200.104.250.183/vtr_cnn_online/cnn-web/
+#EXTINF:-1 group-title="Noticias",CNN en español
+http://187.247.255.139/Apple/CNNEspanol1200.m3u8
+#EXTINF:-1 group-title="Noticias",Cable Noticias
+http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8
+#EXTINF:-1 group-title="Variedades",H13 Noticias
+http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
+#EXTINF:-1 group-title="Noticias",El Tiempo Televisión
+http://uneapple-i.akamaihd.net/hls/live/207648/grupoune_st29@207648/st29_index.m3u8
+#EXTINF:-1 group-title="Noticias",TeleSur
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8
+#EXTINF:-1 group-title="Noticias",Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1 group-title="Noticias",Milenio TV
+http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Noticias",Bloomberg
+http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Noticias",WOBI TV
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Noticias",Canal 24 horas
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8
+#EXTINF:-1 group-title="Variedades",3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",Euronews en Español
+http://149.11.34.78:1935/live/euronewses.stream/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",RT en Español HD 720
+http://odna.octoshape.net/f3f5m2v4/cds/ch2_720p/master.m3u8
+#EXTINF:-1 group-title="Noticias",RT en Español SD 16:9
+http://odna.octoshape.net/f3f5m2v4/cds/ch2_320p/chunklist.m3u8
+#EXTINF:-1 group-title="Variedades",.: NOTICIAS - MUNDO :.
+ 
+#EXTINF:-1 group-title="Noticias",Weather Nation HD 720
+http://kalsegsec-a.akamaihd.net:80/dc-0/m/pa-live-publish3/kLive/smil:1_oorxcge2_all.smil/chunklist_b2096000.m3u8
+#EXTINF:-1 group-title="Noticias",RT
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/blizznow.m3u8?Vd?u#bt!25
+#EXTINF:-1 group-title="Noticiasgroup-titleNews",EuroNews en Ingles
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
+#EXTINF:-1 group-title="Noticias",CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1 group-title="Noticias",Sky News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+#EXTINF:-1 group-title="Noticias",BBC News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:-1 group-title="Noticiasgroup-titleNews",France 24 (OFFLINE)
+http://tv.flux.france24.com/4684/05.m3u8
+#EXTINF:-1 group-title="Noticiasgroup-titleNews",BFM TV
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
+#EXTINF:-1 group-title="Noticiasgroup-titleNews",RAI News 24
+http://httpstream2.rai.it/rn24.isml/QualityLevels(1256000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Noticias",i24 News
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+#EXTINF:-1 group-title="Noticias",ABC News HD 720
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?
+#EXTINF:-1 group-title="News",CNBC
+http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
+#EXTINF:-1 group-title="Noticias",PRESS TV
+http://ptv-hls.streaming.overon.es/channel03/livehigh.m3u8
+#EXTINF:-1 group-title="News",.: VARIEDADES - INTERNACIONALES :.
+ 
+#EXTINF:-1 group-title="Variedades",RT Documentary HD 720 Rusia
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Variedades",CCTV 4 China
+http://103.242.13.67:5000/nn_live.ts?id=cctv4-m-h
+#EXTINF:-1 group-title="Variedades",CCTV 9 China
+http://103.242.13.66:5000/nn_live.ts?id=cctvd-m-h
+#EXTINF:-1 group-title="Variedades",NHK World Japón
+http://103.242.13.67:5000/nn_live.ts?id=nhkworldhd-m-h
+#EXTINF:-1 group-title="Variedades",BBTV 7 HD 720 Thailandia
+rtmp://58.97.57.152/live playpath=ch47 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
+#EXTINF:-1 group-title="Deportes",Arena TV Indonesia
+http://118.97.167.19/jhos/arena//Playlist.m3u8
+#EXTINF:-1 group-title="Variedades",TRT Turquía
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 group-title="Variedades",AZTV Azerbaiyán
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
+#EXTINF:-1 group-title="Variedades",Mega Grecia
+http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
+#EXTINF:-1 group-title="Variedades",TV5 Monde Francia
+http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8
+#EXTINF:-1 group-title="Variedades",France 2 HD 720
+http://94.23.33.220:8080/simulcast/France_2/hls_v1/.m3u8
+#EXTINF:-1 group-title="Variedades",Deutsche Welle (L.A) Alemania
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1 group-title="Variedades",Deutsche Welle (U.S.A) Alemania
+http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
+#EXTINF:-1 group-title="Variedades",Deutsche Welle (Europa) Alemania
+http://www.metafilegenerator.de/DWelle/tv-europa/ios/master.m3u8
+#EXTINF:-1 group-title="Variedades",RTP 1 Portugal
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Variedades",RTP 2 Portugal
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Variedades",RTP Internacional Portugal
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 group-title="Variedades",TVI Portugal
+http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-3/livestream.m3u8
+#EXTINF:-1 group-title="Variedades",RAI Premium Italia
+mmsh://212.162.68.163:80/Rai_Premium
+#EXTINF:-1 group-title="Variedades",RSI La 2 Italia (OFFLINE)
+http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:rsila2_hd/playlist.m3u8
+#EXTINF:-1 group-title="Variedades",La 2 España
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 group-title="Variedades",Antena 3 HD 720 España
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1 group-title="Variedades",Antena 3 Internacional
+http://uneapple-i.akamaihd.net/hls/live/205012/grupoune_st3@205012/st3_index.m3u8
+#EXTINF:-1 group-title="Variedades",La Sexta HD 720 España
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 group-title="Variedades",Cuatro España (web)
+http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_22@168474/index_0_av-p.m3u8
+#EXTINF:-1 group-title="Variedades",Telecinco España (web)
+http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-p.m3u8
+#EXTINF:-1 group-title="Variedades",13tv España (web)
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8?idLive=021&amp;referer=TkQ=
+#EXTINF:-1 group-title="Variedades",Extremadura TV España
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1 group-title="Variedades",Huesca TV España
+rtmp://streaming2.radiohuesca.com/live/huescatv
+#EXTINF:-1 group-title="Variedades",Andalucia 8 TV España
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1 group-title="Variedades",TV3 Catalunya España
+http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
+#EXTINF:-1 group-title="Variedades",Lux Mallorca TV España
+rtmp://fl1.viastreaming.net/canal37/livestream
+#EXTINF:-1 group-title="Variedades",Aragon TV Zaragoza España
+http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8
+#EXTINF:-1 group-title="Variedades",Sevilla TV España
+http://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc/stml.m3u8
+#EXTINF:-1 group-title="Variedades",Granada 7 TV España
+http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/playlist_b750000.m3u8
+#EXTINF:-1 group-title="Variedades",TV Asturias España
+rtmp://149.11.34.6:1935/live//teleasturias.stream
+#EXTINF:-1 group-title="Variedades",RTP Asturias España
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1 group-title="Variedades",EITB España
+http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
+#EXTINF:-1 group-title="Variedades",Comarcal TV España
+http://iphone-streaming.ustream.tv/ustreamVideo/17652616/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Variedades",PTV Cantabria España
+http://flash3.todostreaming.es:1935/ptvcantabria/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Variedades",Canal Blau España
+http://iphone-streaming.ustream.tv/ustreamVideo/14339579/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Variedades",Ferrol TV España
+mms://streaming.arsenet.com/tvf
+#EXTINF:-1 group-title="Variedades",TeleBahia España
+http://62.42.17.93:1935/live/Live/playlist.m3u8
+#EXTINF:-1 group-title="Variedades",Mijas TV Málaga España
+rtmp://teledifusion.tv/mijastv/mijastvlive
+#EXTINF:-1 group-title="News",iB3 Balears TV España
+rtmp://ib3tvlivefs.fplive.net/ib3tvlive-live/streamib3
+#EXTINF:-1 group-title="Variedades",Ondaluz Sierra España
+http://cls.elitehd-audiovisuales.com/olsierra/livestream1/master.m3u8
+#EXTINF:-1 group-title="Variedades",Ceuta TV España
+http://teledifusion.tv:1935/anguloceuta/anguloceuta/playlist.m3u8
+#EXTINF:-1 group-title="Variedades",Huelva TV España
+http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
+#EXTINF:-1 group-title="Variedades",Condavision Huelva España
+http://cls.todostreaming.eu/azahara/condavision/playlist.m3u8
+#EXTINF:-1 group-title="Variedades",TV Canarias España (web)
+http://streamrtvcdrb.mad.idec.net/rtvcnet/rtvcnet.drb.stream/playlist.m3u8
+#EXTINF:-1 group-title="Variedades",Lancelot TV Las Palmas España
+rtmp://62.210.141.18:1935/directo/lancelot.television
+#EXTINF:-1 group-title="Variedades",Tindaya TV Las Palmas España
+rtmp://videostream.provideo.es/tindayatv/livestream
+#EXTINF:-1 group-title="Variedades",EHS TV Ibiza España
+rtmp://streaming6.streamteca.com/live/WXPHL
+#EXTINF:-1 group-title="Variedades",TV Galicia España
+http://media3.crtvg.es/live/tvge/playlist.m3u8
+#EXTINF:-1 group-title="Variedades",TV Galicia Internacional
+http://media3.crtvg.es/live/tvga/hasbahca.m3u8
+#EXTINF:-1 group-title="Variedades",TVEspañola Internacional
+http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?
+#EXTINF:-1 group-title="Variedades",Hispan TV
+http://ptv-hls.streaming.overon.es/channel04/livehigh.m3u8
+#EXTINF:-1 group-title="Musical",EXA TV
+http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8#EXTINF:-1 group-title="News",.: VARIEDADES - LATINOS :.

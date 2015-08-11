@@ -1,0 +1,568 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id=metv" tvg-logo="tv.png" group-title="MX TV" , Bein N Sports (ES)
+http://bein-es.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:BeInSports_ES_all/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" tvg-logo="tv.png" group-title="MX TV" ,TVN
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" tvg-logo="tv.png" group-title="MX TV" ,TVN
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" tvg-logo="tv.png" group-title="MX TV" ,TVC DEPORTES
+http://187.247.255.139/Apple/TVCDeportes.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" tvg-logo="tv.png" group-title="MX TV" ,HBO Boxing
+http://50.7.69.186:1935/edge/_definst_/qzbbu26gcvjxksz/chunklist.m3u8?wowzasessionid=1419847602
+ 
+#EXTINF:-1 tvg-id=metv" tvg-logo="tv.png" group-title="MX TV" ,Todo Depertes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" tvg-logo="tv.png" group-title="MX TV" ,CORREO TV
+http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="hbo.png",HBO Comedy
+http://50.7.69.186:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335
+ 
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="canal 29.png",Canal 29
+http://cdns840stu1010.multistream.net/genteve.c29.svlive/amlst:live/huraivza_b750000.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="canal 33.png",Canal 33
+http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="canal 12.png",Canal 12
+http://iphone-streaming.ustream.tv/uhls/5474055/streams/live/iphone/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="real madrid tv.png",REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="telemundo.png",TELEMUNDO
+http://66.55.92.79:1935/app/chivasss69s-channel/.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="el garage tv.png",EL GARAGE TV
+http://200.76.77.237/LIVE/H01/CANAL269/PROFILE03.m3u8 ?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="lifetime.png",LIFETIME
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8 ?
+ 
+ 
+ 
+#EXTINF:0 tvg-logo="showtime.png",Showtime
+http://50.7.69.186:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
+ 
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="total play.png" , Canal Total Play
+http://200.76.77.237/LIVE/H01/CANAL1/PROFILE03.m3u8 ?
+ 
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="tvmas.png",TVMAS
+http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="extremadura.png", Extremadura
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="america tv.png",America TV
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="ocho tv.png",Ocho TV
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="tv agro.png",TV Agro
+http://uneapple-i.akamaihd.net/hls/live/205015/grupoune_st6@205015/st6_index.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="tbs very funny.png",TBS Very Funny
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8 ?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="uno tv.png",Uno TV
+http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="travel channel.png",Mexico Travel Channel
+http://cdns840stu1010.multistream.net/mtchlive/amlst:live/chunklist_b900000.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="unicable.png",Unicable HD
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?
+ 
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="canal tvn.png",Canal tvn
+http://urtmpkal-f.akamaihd.net/i/19wqj1kgf_1@136614/master.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="azteca 13.png",Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="azteca 7.png",Azteca 7
+http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?
+ 
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="canal de las estrellas.png",Canal De las Estrellas HD
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="telemetro.png",Telemetro
+http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="el trece.png",El Trece
+http://200.76.77.237/LIVE/H01/CANAL13/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="proyecto 40.png",Proyecto 40
+http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="AZ24HD.png",Az Corazon
+http://200.76.77.237/LIVE/H01/CANAL45/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="canal 2 HD.png",Canal 2 HD
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="foro tv HD.png",Foro TV
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="canal 5 HD.png",Canal 5 HD
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="gala tv hd.png",Gala TV
+http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="once tv.png",Once TV
+http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="dw latinoamerica.png",DW Latinoamerica
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="teleantillas.png",TeleAntillas
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="telecinco.png",Telecinco
+http://mdsios1-lh.akamaihd.net/i/telecinco/esmediaset_11@168471/index_0_av-b.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="atv.png",ATV
+http://edge-21-us.edge.mdstrm.com/live-stream/_definst_/smil:c23b8a0a21d215482b4c2703e47f675a/chunklist_b1500000.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="mega.png"",Mega HD
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="la sexta.png",La Sexta
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="cadena 3.png",Cadena 3
+http://200.76.77.237/LIVE/H01/CANAL143/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="antena 3.png",Antena 3
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="teleformula.png",Tele Formula
+http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="multimedios monterrey.png",Multimedios Monterrey
+http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="hmx.png" ,HMX
+http://200.76.77.237/LIVE/H01/CANAL169/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="fox.png",Fox HD
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="sony.png",Sony HD
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="warner hd.png",Warner HD
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-id=metv" group-title="MX TV" tvg-logo="universal hd.png",Universal HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="fx hd.png",FX HD
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="a&e.png",A E
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="axn hd.png",AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="trutv hd.png",TruTV HD
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="comedy central.png",Comedy Central HD
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="unicable.png" ,Unicable
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="bbc entertainment.png",BBC Entertainment
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="!e.png" ,E! Entertainment Television
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="wobi tv.png",WOBI TV
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="universal channel.png",Universal Channel
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="syfy.png" ,SyFy
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="tlc.png",TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="fx.png" ,FX
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="el gourmet.png" ,El Gourmet
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="glitz.png",Glitz
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="fox life.png",Fox Life
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="distrito comedia.png" ,Distrito Comedia
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="tbs.png",TBS
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="casa club.png" ,Casa Club
+http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="tlnovelas.png" ,Telenovelas
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="investigaciones discovery.png" ,Investigaciones Discovery
+http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="tnt series.png" ,TNT Series
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="hd theater.png" ,HD Theater
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="cinecanal.png",Cinecanal
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="history hd.png" ,History HD
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="natgeo wild hd.png" ,NatGeo Wild HD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="natgeo.png" ,NatGeo
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="amc hd.png",AMC HD
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="space hd.png",Space HD
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="discovery theater hd.png",Discovery Theater HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE05.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="discovery world hd.png" ,Discovery World HD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="discovery channel.png" ,Discovery Channel
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="discovery turbo.png" ,Discovery Turbo
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="discovery civilization.png"",Discovery Civilization
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="discovery science.png",Discovery Science
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="animal planet.png" ,Animal Planet
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="home and health.png" ,Home and Health
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="natgeo.png" ,National Geographic
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="lifetime.png" ,Lifetime
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="milenio tv.png" ,Milenio TV
+http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="bloomberg.png" ,Bloomberg
+http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="mbc action.png" ,MBC Action
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="bbc news.png" ,BBC News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="abc news.png" ,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="sky news.png" ,Sky News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="cnn.png" ,CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="az noticias.png",AZ Noticias
+http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?
+ 
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  ,[COLOR lime] -- Infantiles --  
+ 
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="discovery kids.png" ,Discovery Kids
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="cbeebies.png" ,CBeebies
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="disney jr.png" ,Disney Jr
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="nick jr.png" ,Nick Jr
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="disney channel.png" ,Disney Channel
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="nicktoons.png" ,NickToons
+http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="nick hd.png" ,Nick HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="nickelodeon.png" ,Nickelodeon
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="cartoon network.png" ,Cartoon Network
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="disney xd.png" ,Disney XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="boomerang.png" ,Boomerang
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="tiin.png" ,TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="tooncast.png" ,Tooncast
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
+ 
+
+ 
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="de pelicula hd.png",De Pelicula Hd
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="cinemax.png" ,Cinemax
+http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="tnt.png" ,TNT
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="tnt hd.png",TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="cinecanal hd.png" ",Cinecanal HD
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="the film zone hd.png" ,The Film Zone HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="golden.png" ,Golden
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
+ 
+#EXTINF:- tvg-logo="fox 1 hd.png",Fox 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="fox action.png" ,Fox Action
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="fox family.png" ,Fox Family
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="fox movies HD.png",Fox Movies HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="fox cinema.png",Fox Cinema
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="fox classics.png" ,Fox Classics
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="tcm.png" ,TCM
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="golden edge.png" ,Golden Edge
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="studio universal.png",Studio Universal
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="space.png",Space
+http://200.76.77.237/LIVE/H01/CANAL491/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="horror channel.png",Horror Channel [I][B]Ingles[/B][/I] 
+http://llnw.live.simplestream.com/coder4/coder.channels.channel6/hls/3/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="hbo comedy.png",HBO Comedy
+http://50.7.69.186:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="hbo.png",HBO [I][B]Ingles[/B][/I] 
+rtmpe://192.99.38.90:1935/goLive playpath=qKmzUdRhBM73njBBDFyL swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="hbo hd.png",HB0 HD
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="peliculas espanol.png",Peliculas Espanol
+rtmp://50.7.78.50:443/live?JhuNNMkGj39vL354DAt2zAuSsb8egtL5 playpath=live_universal_movies swfUrl=http://vaughnlive.tv/4270812306/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/universal_movies
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="hbo movies.png",HBO MOVIES [I][B]Ingles[/B][/I] 
+http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8
+rtmp://94.102.63.54/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGD timeout=15
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  ,[COLOR lime] -- Deportes --  
+ 
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="box nation.png",Box Nation
+http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="fox sports hd.png" ,Fox Sports HD
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="fox sports 2 hd.png" ,Fox Sports 2 HD
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="espn hd.png" ,ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="espn.png" ,ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="espn 2.png" ,ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="espn 3 hd.png",ESPN 3 HD
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="aym sports.png",AyM Sports
+http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="sky sports 4.png",SKY SPORT 4
+http://178.62.148.20:8080/sky4/sSko4/index.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="sports.png",SPORTES 2 HD USA
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV" tvg-logo="sports.png" ,SPORTES 3 HD USA
+http://xrxs.net/video/live-p12losa-4728.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="sports.png",SPORTES 4 HD USA
+http://xrxs.net/video/live-p12moun-4728.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="sports.png",SPORTES 5 HD USA
+http://www.xrxs.net/video/live-p12netw-4728.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="sports.png",SPORTES 6 HD USA
+http://xrxs.net/video/live-p12netw-4728.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="sports.png",SPORTES 7 HD USA
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="tvc deportes.png" ,TVC Deportes
+http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8 ?
+ 
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  ,[COLOR lime] -- Musica --  
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="hot.png",HOT HOT HOT
+http://www.djing.com/tv/hothothot.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="underground.png",Underground
+http://www.djing.com/tv/underground.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="dancefloor.png",Dancefloor
+http://www.djing.com/tv/dancefloor.m3u8?
+ 
+#EXTINF:0 tvg-logo="mi musica hd.png" ,Mi Musica
+http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="trendy musica.png",Trendy Musica
+http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_index.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="telehit hd.png" ,Telehit HD
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="mtv live hd.png" ,MTV Live HD
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="mtv.png" ,MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="mtv hits.png" ,MTV Hits
+http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?
+ 
+#EXTINF:1 tvg-logo="mtv rocks.png",MTV ROCKS
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8?b?b*t$
+ 
+#EXTINF:1 tvg-logo="mtv dance.png",MTV DANCE
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8?b?b*t$
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="vh1 hd.png" ,VH1 HD
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="vh1 classics.png" ,VH1 Classics
+http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="ritmoson latino.png" ,Ritmoson Latino
+http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="bandamax.png" ,Bandamax
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="vevo.png" ,Vevo 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="vevo.png" ,Vevo 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="vevo.png" ,Vevo 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="rouge tv.png",Rouge TV
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8 ?
+ 
+
+ 
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="adult.png" ,Private +18 
+http://185.38.12.20:8088/private/
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="adult.png" ,Russian night +18 
+http://185.38.12.20:8088/rusnoch/
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="adult.png" ,Blue Hustler +18 
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"   tvg-logo="adult.png" ,Olala +18 
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="adult.png" ,XXL +18 
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="adult.png" ,Adulto 1 +18 
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id=metv" group-title="MX TV"  tvg-logo="adult.png" ,Adulto 2 +18 
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
