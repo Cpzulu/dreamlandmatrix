@@ -1,0 +1,139 @@
+﻿#EXTM3U
+#EXTINF:-1,***HasBahCa IPTV***PAKISTAN-URDU***LONG BUFFERS
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1,8xm_tv_channel_live?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjUzOjMyIEFNJmhhc2hfdmFsdWU9eGpHQ3JWQ2tkL1B1emFoSlZuSkRhZz09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=8xm swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=8xm&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/8xm_tv_channel_live?by_HasBahCa
+#EXTINF:-1,abb_takk_news_live?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjQyOjAyIEFNJmhhc2hfdmFsdWU9a1pOeEhqWmNuMlA5TmhiS2xhOFMwdz09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=abbtakk swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=abbtakk&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/abb_takk_news_live?by_HasBahCa
+#EXTINF:-1,aghaz_tv_live?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjU5OjUyIEFNJmhhc2hfdmFsdWU9ZW4wTUpPa0VFRzA2cXZzVXRtNVFVZz09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=aghaz swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=aghaz&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/aghaz_tv_live?by_HasBahCa
+#EXTINF:-1,aplus_tv?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjQ2OjU4IEFNJmhhc2hfdmFsdWU9MUppLzY1dWZZNE13RFZXVzF6WDNCQT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=aplus swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=aplus&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/aplus_tv?by_HasBahCa
+#EXTINF:-1,ary_digital_live  by_HasBahCa m3u8
+http://93.115.85.17:1935/ARYDIGITAL/myStream/HasBahCa.m3u8
+#EXTINF:-1,ary_digital_live?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://93.115.85.17:1935/ARYDIGITAL/ playpath=myStream swfUrl=http://hamariweb.com/mediaplayer-5.10-licensed/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/ary_digital_live?by_HasBahCa
+#EXTINF:-1,ary_news?by HasBahCa
+http://93.115.85.17:1935/ARYNEWS_2/myStream_240p/HasBahCa.m3u8
+#EXTINF:-1,ary_news?by HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://93.115.85.17:1935/ARYNEWS_2 playpath=myStream_240p swfUrl=http://www.hamariweb.com/mediaplayer-5.10-licensed/player.swf live=1 pageUrl=http://www.hamariweb.com/ary_news/ary.php
+#EXTINF:-1,ary_zindagi  by_HasBahCa m3u8
+http://93.115.85.17:1935/ARYZINDAGI//myStream/HasBahCa.m3u8
+#EXTINF:-1,ary_zindagi?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://93.115.85.17:1935/ARYZINDAGI/ playpath=myStream swfUrl=http://hamariweb.com/mediaplayer-5.10-licensed/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/ary_zindagi?by_HasBahCa
+#EXTINF:-1,atv?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjQ4OjA3IEFNJmhhc2hfdmFsdWU9TEJzeWtBbFVLL2dNSGdZZ21KSmF6UT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=atv swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=atv&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/atv?by_HasBahCa
+#EXTINF:-1,awaz_tv_live?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjUyOjMyIEFNJmhhc2hfdmFsdWU9dGJ4YkNBRlZ5SUZIdGFPR1p5czdCZz09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=awaztv swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=awaztv&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/awaz_tv_live?by_HasBahCa
+#EXTINF:-1,business_plus_live?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjU3OjI0IEFNJmhhc2hfdmFsdWU9RkR1YmQxVGY2VHlQaGk2c0tYdXlMdz09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=businessplus swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=businessplus&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/business_plus_live?by_HasBahCa
+#EXTINF:-1,capital_tv_live?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjQzOjA5IEFNJmhhc2hfdmFsdWU9WDJzU0g3NXJkOG5YTWlvdndWc0U4QT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=capitaltv swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=capitaltv&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/capital_tv_live?by_HasBahCa
+#EXTINF:-1,channel5tv?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjQ2OjAxIEFNJmhhc2hfdmFsdWU9U1duRnJFUFdvWHkyalVqaXFMcGZadz09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=channelfive swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=channelfive&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/channel5tv?by_HasBahCa
+#EXTINF:-1,city_42_live?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjQ0OjM3IEFNJmhhc2hfdmFsdWU9WHQ3ZklxL3lCRWhjZFdNalUvamIzUT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=city42 swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=city42&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/city_42_live?by_HasBahCa
+#EXTINF:-1,DAWN NEWS
+rtsp://dawnstream.hostingmadeeasy.com/dawn
+#EXTINF:-1,DUNYA NEWS
+rtmp://$OPT:rtmp-raw=rtmp://173.245.68.50/live playpath=cam swfUrl=http://dunyanews.tv/newsite/live_stream/player.swf live=1 pageUrl=http://hamariweb.com/tv/ --live
+#EXTINF:-1,dunyanews_tv?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://50.117.24.90/live playpath=mp4:livestream_1.f4v swfUrl=http://hamariweb.com/mediaplayer-5.10-licensed/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/dunyanews_tv?by_HasBahCa
+#EXTINF:-1,emax_tv?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA3OjAyOjQ5IEFNJmhhc2hfdmFsdWU9di9OVXY5NitRS08rK24vWHlPMWljZz09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=emax swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=emax&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/emax_tv?by_HasBahCa
+#EXTINF:-1,express_entertainment?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjU1OjM2IEFNJmhhc2hfdmFsdWU9MjVVTDMxSDNhWmxaa2dudU5VNkszQT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=expressentertainment swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=expressentertainment&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/express_entertainment?by_HasBahCa
+#EXTINF:-1,g1_tv?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA3OjAyOjI4IEFNJmhhc2hfdmFsdWU9YlZVaURmRWZPaDgvd1hSdkYwR3h5Zz09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=g1tv swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=g1tv&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/g1_tv?by_HasBahCa
+#EXTINF:-1,geo_kahani_live?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjQ3OjE3IEFNJmhhc2hfdmFsdWU9OVFyMUk5UHlhYWR4RmtaMWV2UmcxQT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=geokahani swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=geokahani&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/geo_kahani_live?by_HasBahCa
+#EXTINF:-1,hadi_tv?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://live1.haditv.com/liveTrans playpath=channel1_110k swfUrl=http://hamariweb.com/mediaplayer-5.10-licensed/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/hadi_tv?by_HasBahCa
+#EXTINF:-1,health_tv?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjQ4OjI5IEFNJmhhc2hfdmFsdWU9QXJtUTVENnEvTGVpakQrb3hjTW1NUT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=healthtv swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=healthtv&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/health_tv?by_HasBahCa
+#EXTINF:-1,Hum_2?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA3OjAxOjQxIEFNJmhhc2hfdmFsdWU9UG82cWRmUFFkUC9sTXlaVDQ1djFZUT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=hum2 swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=hum2&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/Hum_2?by_HasBahCa
+#EXTINF:-1,hum_sitaray_live?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjQzOjUyIEFNJmhhc2hfdmFsdWU9N1ZzZ0Y3ZnBQZGJWTGdYdXZZaFBWUT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=hum2 swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=hum2&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/hum_sitaray_live?by_HasBahCa
+#EXTINF:-1,hum_tv?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjQyOjM0IEFNJmhhc2hfdmFsdWU9Yk96Qzhzb1ZGRkVvSC9CUnNDNDJVQT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=humtv swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=humtv&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/hum_tv?by_HasBahCa
+#EXTINF:-1,iFILM
+rtmp://$OPT:rtmp-raw=rtmp://mtv.fms-01.visionip.tv/live/ playpath=mtv-ifilm-ifilm-live-16x9-SDq swfUrl=http://www.ifilmtv.com/player/_player.swf live=1 pageUrl=http://www.ifilmtv.com/english/Live/ --live
+#EXTINF:-1,islam_tv
+rtmp://$OPT:rtmp-raw=rtmp://wowza04.sharp-stream.com/islamtv playpath=islamtv swfUrl=http://player.sharp-stream.com/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/islam_tv.aspx
+#EXTINF:-1,islam_tv  by_HasBahCa m3u8
+http://wowza05.sharp-stream.com/islamtv/islamtv/HasBahCa.m3u8
+#EXTINF:-1,islam_tv m3u8
+http://wowza04.sharp-stream.com/islamtv/islamtv/HasBahCa.m3u8
+#EXTINF:-1,islam_tv?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://wowza05.sharp-stream.com/islamtv playpath=islamtv swfUrl=http://player.sharp-stream.com/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/islam_tv?by_HasBahCa
+#EXTINF:-1,khyber_news?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA3OjAwOjE0IEFNJmhhc2hfdmFsdWU9RFlSV0dkVXZGcnIxUzFNL1hOeGRoQT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=khybernews swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=khybernews&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/khyber_news?by_HasBahCa
+#EXTINF:-1,KTN_news
+rtmp://$OPT:rtmp-raw=rtmp://38.96.148.99:1935/samaalive playpath=samaalive swfUrl=http://hamariweb.com/mediaplayer-5.10-licensed/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/KTN_news.aspx
+#EXTINF:-1,KTN_news  by_HasBahCa m3u8
+http://38.96.148.99:1935/samaalive/samaalive/HasBahCa.m3u8
+#EXTINF:-1,KTN_news?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://38.96.148.99:1935/samaalive playpath=samaalive swfUrl=http://hamariweb.com/mediaplayer-5.10-licensed/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/KTN_news?by_HasBahCa
+#EXTINF:-1,madanichannel?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://madanichannel.videocdn.scaleengine.net/madanichannel-live/play/ playpath=mcstream swfUrl=http://hamariweb.com/mediaplayer-5.10-licensed/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/madanichannel?by_HasBahCa
+#EXTINF:-1,makkah_Live?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjQxOjM3IEFNJmhhc2hfdmFsdWU9YXh5dHRQTFJ4TmFDYStNUTlnVER5QT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=mecca swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=mecca&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/makkah_Live?by_HasBahCa
+#EXTINF:-1,masala_tv?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjQ1OjExIEFNJmhhc2hfdmFsdWU9clIrZjA4QWZCWlNHNmZYbVNWd0lmUT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=masalatv swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=masalatv&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/masala_tv?by_HasBahCa
+#EXTINF:-1,metro_one?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjQ2OjI1IEFNJmhhc2hfdmFsdWU9Z2JXdndXK3VVNWRkUzdKby91SjkvUT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=metroone swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=metroone&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/metro_one?by_HasBahCa
+#EXTINF:-1,n_vibe_tv?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjU0OjM0IEFNJmhhc2hfdmFsdWU9dTR6VzlRSDFTeFNTK1NEN3U4YmtmUT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=nvibe swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=nvibe&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/n_vibe_tv?by_HasBahCa
+#EXTINF:-1,news_one_live?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA3OjA2OjE0IEFNJmhhc2hfdmFsdWU9UDFPc3c1Ymw0YnFNSGN6dDFGdDBXUT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=newsone swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=newsone&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/news_one_live?by_HasBahCa
+#EXTINF:-1,PEACE TV
+rtmp://$OPT:rtmp-raw=rtmp://peace.fms.visionip.tv/live/ playpath=b2b-peace_asia-live-25f-4x3-sdh_1 swfUrl=http://hamariweb.com/tvold/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/peace_tv.aspx
+#EXTINF:-1,peace_tv?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://peace.fms.visionip.tv/live playpath=b2b-peace_asia-live-25f-4x3-sdh_1 swfUrl=http://hamariweb.com/mediaplayer-5.10-licensed/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/peace_tv?by_HasBahCa
+#EXTINF:-1,PRESS TV
+rtmp://$OPT:rtmp-raw=rtmp://mtv.fms-01.visionip.tv/live playpath=mtv-ptv-live-25f-16x9-SDh?ref=www.presstv.ir&USER=MTV+-+PTV+Stream swfUrl=http://embeddedplayer.visionip.tv/data/swf/1f92659aabbee91b48fdc3022f92d553964/player.swf live=1 pageUrl=http://www.presstv.ir/live.html --live
+#EXTINF:-1,PTV NEWS
+rtmp://$OPT:rtmp-raw=rtmp://live.server4sale.com/live playpath=PTVnews swfUrl=http://live.server4sale.com:81/swfs/videoPlayer.swf live=1 pageUrl=http://news.ptv.com.pk/livestreaming.asp
+#EXTINF:-1,PTV WORLD
+rtmp://$OPT:rtmp-raw=rtmp://live.server4sale.com/live playpath=8090 swfUrl=http://live.server4sale.com:81/swfs/videoPlayer.swf live=1 pageUrl=http://world.ptv.com.pk/LiveStreaming.asp -C B:0 --live
+#EXTINF:-1,ptv-news?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://live.server4sale.com/live/ playpath=PTVnews swfUrl=http://hamariweb.com/mediaplayer-5.10-licensed/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/ptv-news?by_HasBahCa
+#EXTINF:-1,raah_tv?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA3OjAyOjAzIEFNJmhhc2hfdmFsdWU9dXZQUTNRM1ZDNHpmRkQ4OVV4VXRKQT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=raahtv swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=raahtv&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/raah_tv?by_HasBahCa
+#EXTINF:-1,royal_news?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjQ3OjUwIEFNJmhhc2hfdmFsdWU9QVFqS0JFREcwQmJrV3EzUVdWSkdiQT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=royaltv swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=royaltv&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/royal_news?by_HasBahCa
+#EXTINF:-1,Sama News
+rtsp://38.96.148.99:1935/live/bb
+#EXTINF:-1,samaalive  by_HasBahCa m3u8
+http://38.96.148.99:1935/samaalive//samaalive/HasBahCa.m3u8
+#EXTINF:-1,samaalive?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://38.96.148.99:1935/samaalive/ playpath=samaalive swfUrl=http://hamariweb.com/mediaplayer-5.10-licensed/player.swf live=1 pageUrl=http://hamariweb.com/tv/samaalive?by_HasBahCa
+#EXTINF:-1,samatv
+rtmp://$OPT:rtmp-raw=rtmp://38.96.148.99:1935/samaalive playpath=samaalive swfUrl=http://hamariweb.com/mediaplayer-5.10-licensed/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/sama_tv.aspx
+#EXTINF:-1,sindh_tv_live?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjUyOjU0IEFNJmhhc2hfdmFsdWU9bHpBeE96VStRSjB0QkNsUm1ob1VTZz09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=sindhtv swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=sindhtv&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/sindh_tv_live?by_HasBahCa
+#EXTINF:-1,sindhtvnews?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA3OjAwOjM4IEFNJmhhc2hfdmFsdWU9THViUjd5U1FIRXlhVFRUYi9aRnZZUT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=sindhnews swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=sindhnews&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/sindhtvnews?by_HasBahCa
+#EXTINF:-1,style_360?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjUzOjUxIEFNJmhhc2hfdmFsdWU9bis2NDkyaDNRZllNelNJM20yRlpwQT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=style360 swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=style360&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/style_360?by_HasBahCa
+#EXTINF:-1,such_tv_live?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjUxOjI5IEFNJmhhc2hfdmFsdWU9dUVQVDF0R21LVTRZdTZlQmpCemY2dz09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=suchtv swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=suchtv&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/such_tv_live?by_HasBahCa
+#EXTINF:-1,taraweeh_channel?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjU2OjIyIEFNJmhhc2hfdmFsdWU9VTFEblFZazhvc25yQlhjTm9zSUpWdz09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=mecca swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=mecca&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/taraweeh_channel?by_HasBahCa
+#EXTINF:-1,the_life_tv_live?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjUyOjExIEFNJmhhc2hfdmFsdWU9aXBqQlVDZ3ZZdFI4UXBnTTNuWVNJUT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=lifetv swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=lifetv&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/the_life_tv_live?by_HasBahCa
+#EXTINF:-1,times_tv_live?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjU3OjAzIEFNJmhhc2hfdmFsdWU9a0swb0FybjYxWUI1Q1lSVDZ5dDI1Zz09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=times swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=times&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/times_tv_live?by_HasBahCa
+#EXTINF:-1,tv_one?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA3OjA5OjE4IEFNJmhhc2hfdmFsdWU9OHk1NFVDZ1NscHU0ZTNoTXplQzA4Zz09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=tvoneglobal swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=tvoneglobal&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/tv_one?by_HasBahCa
+#EXTINF:-1,urdu1_live?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjU2OjQ1IEFNJmhhc2hfdmFsdWU9M2wyRHZFN2FpdGZUcFFheGdIaTdGQT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=urdu1 swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=urdu1&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/urdu1_live?by_HasBahCa
+#EXTINF:-1,vsh_news_live?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjUxOjU0IEFNJmhhc2hfdmFsdWU9Uk92WVMrdkptQk1zSG5kaGZ4cS9XUT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=vsh swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=vsh&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/vsh_news_live?by_HasBahCa
+#EXTINF:-1,waqt_news?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjQyOjUxIEFNJmhhc2hfdmFsdWU9eUVjQ0VVdVVGZlA3UlhVYmFnVmVIQT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=waqtnews swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=waqtnews&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/waqt_news?by_HasBahCa
+#EXTINF:-1,waseb_tv?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA3OjA2OjM4IEFNJmhhc2hfdmFsdWU9YThKdU82OFpJSzI0WmJuR2JYU3QyUT09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=waseb swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=waseb&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/waseb_tv?by_HasBahCa
+#EXTINF:-1,Zaiqa_TV?by_HasBahCa
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNCA2OjQ2OjQxIEFNJmhhc2hfdmFsdWU9QjVyWTlTN3ZyTGJGN0lDdkM2SDRtZz09JnZhbGlkbWludXRlcz0xMCZpZD0x playpath=zaiqa swfUrl=http://www.eboundservices.com/live/v6/jwplayer.flash.swf?domain=hamariweb.com&channel=zaiqa&country=US live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/Zaiqa_TV?by_HasBahCa
